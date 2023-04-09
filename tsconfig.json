@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "axios-utils": ["./src/index"]
+      "axios-api-utils": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
